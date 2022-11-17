@@ -20,6 +20,6 @@ Furthermore you can edit the constants such as MIN_CUTTING_WIDTH, MAX_CUTTING_WI
 Output:
 
 You will get a PDF file with:
-* a sketch of your cabinet including the dimensions
-* the configuration of your cabinet (cabinet type and number of shelves or drawers)
-* an illustration of all pieces you'll need to build the cabinet including the dimensions for each piece
+* A sketch of your cabinet including the dimensions
+* The configuration of your cabinet (cabinet type and number of shelves or drawers)
+* An illustration of all pieces you'll need to build the cabinet including the dimensions for each piece
