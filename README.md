@@ -1,6 +1,6 @@
 # CS50P-Final-Project
 
-## Screenshots
+## Screenshot
 
 ![Screenshot](/pdf.png?raw=true "PDF Screenshot")
 
@@ -16,7 +16,9 @@ Inputs:
 * Or the amount of drawers you want the cabinet to have (if you want to build a cabinet with drawers)
 
 You can run the program as follows:
+```
 python project.py
+```
 
 Furthermore you can edit the constants such as MIN_CUTTING_WIDTH, MAX_CUTTING_WIDTH and THICK_WOOD_THICKNESS in project.py depending on the min/max cutting limits and wood thickness.
 
